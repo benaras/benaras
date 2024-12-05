@@ -8,4 +8,4 @@ About Me 👩‍💻
 - 🎨 Love building intuitive prototypes with Figma and developing efficient solutions using React, Python, SQL, and more.
 - 🌍 Aspiring to create inclusive tech that empowers everyone!
 
-[![Shachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=benaras)](https://github.com/benaras/github-readme-stats) 
+I! Shachi's github stats| (https:/Lgithub-readme-stats.vercel.app/api?username=benaras private=true&show icons=true&theme=radical&hide rank=false)l (https:/github.com/benaras/github-readme-stats)
