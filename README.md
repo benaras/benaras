@@ -17,18 +17,24 @@
 
 ### 📂 Featured Projects
 
-#### 📌 [News Co-Pilot](https://github.com/username/news-co-pilot)  
+#### 📌 [News Co-Pilot](https://github.com/benaras/news_copilot)  
 *AI-powered personalized news recommendation system.*  
 - Built using Python, Scikit-learn, TensorFlow, and BERT.  
 - Focuses on text classification and recommendation algorithms.
 
-#### 📌 [SVM Sentiment Analysis](https://github.com/username/svm-sentiment-analysis-customer-feedback)  
-*Analyzed customer feedback using SVM to determine sentiment polarity.*  
-- Implemented using Python and Scikit-learn.  
+#### 📌 [HabitForge Web Application](https://github.com/SHIN0003/finalProject)  
+*A productivity tool that helps users build and maintain healthy habits.*  
+- Designed and implemented front-end features using HTML, CSS, and JavaScript.  
 
-#### 📌 [React Weather Dashboard](https://github.com/username/react-weather-dashboard)  
-*A sleek weather dashboard fetching real-time data via APIs.*  
-- Built using React and Node.js.  
+#### 📌 [UMAP](https://github.com/benaras/UMap)  
+*Machine learning-based unsupervised clustering project.*  
+- Implemented Dimensionality Reduction techniques using UMAP.  
+- Visualized high-dimensional data for exploratory analysis and actionable insights.  
+
+#### 📌 [StudyBuddy](https://github.com/SidUMass/StudyBuddy)  
+*Web-based platform for connecting students for collaborative learning.*  
+- Developed a user-friendly interface using React for seamless navigation.  
+- Integrated a backend system with Node.js and Postgres to manage user profiles and match students based on subjects and interests. 
 
 ---
 
