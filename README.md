@@ -2,7 +2,7 @@
 👋 Hi, I'm Shachi Benara!<br><br>🎓 Computer Science '25 @ UMass Amherst | Minor: Information Technology<br>🌟 AI Studio Fellow @ Microsoft | Focus: Machine Learning, NLP, Generative AI<br>💻 Passionate about user-centered design, full-stack development, and making technology accessible.<br>🎨 Love building intuitive prototypes with Figma and developing efficient solutions using React, Python, SQL, and more.<br>🌍 Aspiring to create inclusive tech that empowers everyone!
 
 ### 📫 Contact Me  
-- **Email**: [shachi@benara.com]  
+- **Email**: [shachi.benara@gmail.com]  
 - **LinkedIn**: [https://www.linkedin.com/in/sbenara/]
 
 ---
