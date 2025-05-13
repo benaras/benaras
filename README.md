@@ -17,6 +17,24 @@
 
 ### 📂 Featured Projects
 
+#### 📌 [Justice Through Data](https://github.com/jayanitripathi/justicethroughdata)  
+*Interactive data visualization platform analyzing sentencing and recidivism trends in California.*  
+- Built visual dashboards using D3.js and Flask to explore disparities in criminal justice outcomes.  
+- Collaborated on data cleaning, preprocessing, and integration of CSV datasets from California DOJ.  
+- Enabled users to filter by demographic factors and sentencing categories for deeper insights.
+
+#### 📌 [Women in Data Science (WiDS) Kaggle Competition Spring 2025](https://github.com/julia-epshtein/WiDS-Datathon-Team-25)  
+*Machine learning pipeline for predicting sex and ADHD diagnosis from health data.*  
+- Led feature engineering and implemented Logistic Regression and XGBoost models.  
+- Applied PCA for dimensionality reduction and SMOTE for handling class imbalance.  
+- Achieved an F1 score of 0.75447, ranking 111/543 globally on the leaderboard.
+
+#### 📌 [Chatter-AI](https://github.com/benaras/Chatter-Ai)  
+*Conversational AI chatbot for real-time user interaction and topic-aware dialogue.*  
+- Utilized OpenAI APIs and NLP techniques for generating context-aware responses.  
+- Designed an interactive web interface using React and Node.js for seamless chat experience.  
+- Incorporated sentiment analysis and topic detection to improve engagement and relevance.
+
 #### 📌 [News Co-Pilot](https://github.com/benaras/news_copilot)  
 *AI-powered personalized news recommendation system.*  
 - Built using Python, Scikit-learn, TensorFlow, and BERT.  
