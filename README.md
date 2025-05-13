@@ -17,7 +17,7 @@
 
 ### 📂 Featured Projects
 
-#### 📌 [Justice Through Data]([https://github.com/julia-epshtein/CS571])  
+#### 📌 [Justice Through Data](https://github.com/julia-epshtein/CS571)  
 *Interactive data visualization platform analyzing sentencing and recidivism trends in California.*  
 - Built visual dashboards using D3.js and Flask to explore disparities in criminal justice outcomes.  
 - Collaborated on data cleaning, preprocessing, and integration of CSV datasets from California DOJ.  
